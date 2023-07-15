@@ -1,0 +1,1 @@
+{"name":"Local: Alice_bob_christmas","url":"c:\\Users\\Nehal\\cpp\\Deutsch\\Alice_bob_christmas.cpp","tests":[{"id":1689420357411,"input":"2\n2\n3 3\n9 8\n2\n17 1\n1 17","output":"-1\n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Nehal\\cpp\\Deutsch\\Alice_bob_christmas.cpp","group":"local","local":true}
